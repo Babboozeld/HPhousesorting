@@ -4,11 +4,6 @@
 * text=auto
 
 ###############################################################################
-# Set github behavior to get right language tag or repository.
-###############################################################################
-*.html linguist-language=chtml
-
-###############################################################################
 # Set default behavior for command prompt diff.
 #
 # This is need for earlier builds of msysgit that does not have it on by
